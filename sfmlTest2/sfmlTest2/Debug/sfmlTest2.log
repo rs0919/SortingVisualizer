@@ -1,0 +1,37 @@
+﻿  Main.cpp
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(36,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(37,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(70,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(71,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(194,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(324,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(324,24): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(330,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(331,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rohit\source\repos\sfmlTest2\sfmlTest2\Main.cpp(331,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  sfmlTest2.vcxproj -> C:\Users\rohit\source\repos\sfmlTest2\Debug\sfmlTest2.exe
